@@ -7,6 +7,7 @@ public class HelloWorld {
 
     public static void sss(){
         String name = "zhangsan";
+        int age = 98;
     }
 
 }
