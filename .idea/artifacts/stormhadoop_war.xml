@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="stormhadoop:war">
+    <output-path>$PROJECT_DIR$/../stormhadoop/target</output-path>
+    <root id="archive" name="storm-hadoop.war">
+      <element id="artifact" artifact-name="stormhadoop:war exploded" />
+    </root>
+  </artifact>
+</component>
