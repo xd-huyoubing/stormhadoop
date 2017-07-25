@@ -5,6 +5,8 @@ public class HelloWorld {
         System.out.println("hello World");
     }
 
-    public static void sss(){}
+    public static void sss(){
+        String name = "zhangsan";
+    }
 
 }
